@@ -1,0 +1,12 @@
+name: xor_dart
+description: Simple XOR symmetric encryption/decryption cipher with or without a secret key
+version: 1.0.2
+repository: https://github.com/isaacselement/xor.dart
+homepage: https://github.com/isaacselement/xor.dart
+
+environment:
+  sdk: '>=2.12.2 <3.0.0'
+
+dev_dependencies:
+  lints:
+  test:
